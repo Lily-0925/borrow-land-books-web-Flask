@@ -7,3 +7,7 @@ fisherenv\scripts\activate
 #run the project
 
 python fisher.py
+
+#then you could see the website at:
+
+localhost:5000
